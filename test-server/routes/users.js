@@ -79,4 +79,8 @@ var userValidation = function(username, password, nickname) {
   return true;
 }
 
+router.post('/signin', function(req, res, next) {
+
+});
+
 module.exports = router;
