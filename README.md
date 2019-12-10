@@ -7,7 +7,7 @@
 ## 회원가입
 신규 유저의 등록
 ### 요청
-> {POST} /users/signup
+> {POST} /users/signup/
 
 전달값
 <pre>
